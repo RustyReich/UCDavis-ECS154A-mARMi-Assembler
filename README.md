@@ -3,7 +3,7 @@ This is an assembler for the mARMi CPU that we were assigned to design in ECS154
 
 This assembler allows you to write traditional-style assembly code and have it converted to hex instructions that you can import into logisim.
 
-Blank lines will automaticall be ignored, and in-line comments are supported using the '#' character
+Blank lines will automatically be ignored, and in-line comments are supported using the `#` character
 
 How to use:
 1. Write a program
