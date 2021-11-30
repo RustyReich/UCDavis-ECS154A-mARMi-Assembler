@@ -1,6 +1,8 @@
 # UCDavis-ECS154A-mARMi-Assembler
 This is an assembler for the mARMi CPU that we were assigned to design in ECS154A in Fall 2021 at UC Davis
+
 This assembler allows you to write traditional-style assembly code and have it converted to hex instructions that you can import into logisim.
+
 Blank lines will automaticall be ignored, and in-line comments are supported using the '#' character
 
 How to use:
